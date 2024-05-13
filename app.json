@@ -1,14 +1,14 @@
 { 
-  "name": "DARK-SHAN-MD",
+  "name": "John Ai Bot",
   "description": "A Whatsapp md bot built By kushan sewmina to make experience better",
-  "logo": "https://telegra.ph/file/ee0f303f5da6d86d024e0.jpg",
+  "logo": "https://i.imgur.com/WW3qVz8.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "darkshan-Two", "DARK-SHAN-MD", "DARKSHAN","darkshan-Bot","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "OWNER NAME",
-      "value": "DARK-SHAN-MD"
+      "value": "johncolins"
   },
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.",
@@ -109,11 +109,11 @@
   },
   "PACK_AUTHER": {
     "description": "PUT STICKER AUTHOR NAME",
-    "value": "DARK-SHAN-MD"
+    "value": "@colins"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "dark-shanbot"
+    "value": "@colins"
   },
   "heroku": {
     "description": "Weather it is on heroku or not",
