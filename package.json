@@ -1,7 +1,7 @@
 {
-               "name": "DARK-SHAN-MD",
+               "name": "John Ai Bot",
                "version": "1.0.1",
-               "description": "Multi device whatsapp bot by DARKSHAN.",
+               "description": "Multi device whatsapp bot .",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
@@ -9,7 +9,7 @@
                 "start": "pm2 start lib/client.js --deep-monitoring --attach --name DARKSHAN",
                 "stop": "pm2 stop DARKSHAN"
                 },
-               "author": "DARKSHAN",
+               "author": "johncolins",
               "dependencies": {
                        
                        "@whiskeysockets/baileys": "^6.5.0",
